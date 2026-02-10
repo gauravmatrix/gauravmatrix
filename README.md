@@ -35,7 +35,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ### ⚙️ Programming Languages & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express, django" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express,django" />
 </p>
 
 - REST API Design & Integration  
