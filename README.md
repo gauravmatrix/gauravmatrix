@@ -59,7 +59,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracledb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,oracle" />
 </p>
 
 - Relational & NoSQL Data Modeling  
