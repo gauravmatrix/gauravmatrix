@@ -33,9 +33,9 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ## 🛠 Tech Stack
 
-### ⚙️ Backend & Programming Languages
+### ⚙️ Programming Languages & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,nodejs,express, django" />
 </p>
 
 - REST API Design & Integration  
@@ -44,7 +44,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ---
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
@@ -74,7 +74,8 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 </p>
 
 - Containerization & Orchestration  
-- CI/CD Basics  
+- CI/CD Basics
+- Pipelines
 - Message Queues & Event Streaming  
 - Cloud Deployment & Monitoring  
 
@@ -82,7 +83,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ### 🧪 Testing & Quality Assurance
 <p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,katalon,bluej,jira" />
 </p>
 
 - Manual & Automation Testing  
@@ -95,7 +96,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ### 🤖 AI / Machine Learning & Data
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,matplotlib" />
 </p>
 
 - NumPy • Pandas • Scikit-learn  
@@ -110,7 +111,9 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 - JIRA  
 - Postman  
 - SoapUI  
-- Katalon Studio  
+- Katalon Studio
+- VS Code
+- Claude, Grok, Gemini, GPT
 
 ---
 
@@ -118,7 +121,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 | 🚀 Project | 🧩 Description | 🛠 Tech Stack |
 |-----------|----------------|--------------|
-| **HemoVital – AI Powered Blood Donation System** | AI-driven healthcare platform connecting donors, hospitals, and patients with **real-time blood availability**, **intelligent donor matching**, emergency request handling, and **chatbot-based assistance** for critical situations. | Python · Django · Machine Learning (Predictive Matching) · REST APIs · SQLite / PostgreSQL · HTML · CSS · JavaScript · Gemini AI · Data Indexing |
+| **HemoVital – AI Powered Blood Donation System** | AI-driven healthcare platform connecting donors, hospitals, and patients with **real-time blood availability**, **intelligent donor matching**, emergency request handling, and **chatbot-based assistance** for critical situations. | Python · Django · Machine Learning (Predictive Matching) · REST APIs · SQLite · HTML · CSS · JavaScript · Gemini AI · Data Indexing |
 | **Rural Connect – Digital Governance Platform** | Scalable digital governance system enabling rural citizens to **submit and track complaints** with **role-based escalation**, secure workflows, and transparent authority monitoring. | Python · Django · Django ORM · Role-Based Access Control (RBAC) · REST APIs · PostgreSQL · HTML · CSS · JavaScript |
 | **Eco Kartavya – Sustainable Action Platform** | Sustainability-focused web application promoting **eco-friendly behavior** through activity tracking, awareness modules, and **community-driven engagement** with secure authentication. | Python · Django · SQLite · Bootstrap · REST APIs · Authentication & Authorization · HTML · CSS · JavaScript |
 
@@ -134,16 +137,6 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ---
 
-### 📌 Engineering Practices Followed
-- 🧱 Clean & modular architecture  
-- 🧠 Strong backend and data modeling focus  
-- 🔐 Secure authentication & authorization flows  
-- 📈 Scalable and maintainable design  
-- 🚀 Production-oriented development mindset  
-
-
-
----
 
 ## 🧠 Hackathons & Technical Engagements
 
