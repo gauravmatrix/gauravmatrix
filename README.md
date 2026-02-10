@@ -23,7 +23,7 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 
 ## 🎯 Current Focus
 
-- Full-Stack Engineering (Java / MERN)
+- Full-Stack Engineering
 - Backend Architecture & REST API Design
 - Distributed Systems & System Design Fundamentals
 - Artificial Intelligence & Machine Learning
