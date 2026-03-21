@@ -24,12 +24,12 @@ My learning approach focuses on **deep understanding, clean architecture, and re
 ## 🎯 Current Focus
 
 - Full-Stack Engineering
-- Backend Architecture & REST API Design
-- Distributed Systems & System Design Fundamentals
-- Artificial Intelligence & Machine Learning
-- DevOps & Cloud Deployment
-- Application Security & Authentication
-- Realtime & Scalable Systems
+- Backend Engineering & Scalable REST API Design
+- System Design & Distributed Systems Fundamentals
+- Database Design & Optimization
+- Authentication & Application Security
+- Cloud Infrastructure & DevOps Workflows
+- Building Real-time & High-Performance Systems
 
 ## 🛠 Tech Stack
 
