@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-Full-Stack Engineering | Backend Architecture | Distributed Systems | DevOps & Cloud | Scalable & Secure Systems | Artificial Intelligence & Machine Learning
+Full-Stack Engineering | Backend Architecture | Distributed Systems | Scalable & Secure Systems
 </h3>
 
 ---
