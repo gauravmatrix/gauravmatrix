@@ -96,8 +96,8 @@ Microsoft | GeeksforGeeks | Red Hat | Project EXPO | IISF
 
 - **Python Programming** | Infosys Springboard
 - **Java Programming**  | Infosys Springboard
-- **Problem Solving** | HackerRank
-- **Generative AI** | Microsoft
+- **Problem Solving (Basic)** | HackerRank
+- **Fundamentals of Generative AI** | Microsoft
 
 ---
 
