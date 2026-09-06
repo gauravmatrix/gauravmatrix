@@ -11,26 +11,25 @@ Software Developer | Python | Java | Backend & Full-Stack Development
 
 ## 👋 About Me
 
-Software Developer focused on **Python, Django, Java, Spring Boot, REST APIs, and SQL**.  
-I enjoy building practical web applications, working with backend systems, databases, and API integrations.
+Software Developer with hands-on experience in **Python, Django, Java, Spring Boot, REST APIs, and SQL.** I enjoy building practical web applications and working on **backend systems, database-driven solutions, and API integrations.**
 
-Currently focused on improving my skills in **backend development, system design, database optimization, and software engineering**.
+Currently focused on strengthening my skills in **backend development, system design, database optimization, and software engineering**, while building real-world projects and improving my problem-solving skills..
 
 ---
 
 ## 🛠 Technical Skills
 
 **Languages & Frameworks:**  
-Python | Django | Java | Spring Boot | JavaScript | React | HTML | CSS | Tailwind CSS | SQL
+Python | Django | Java | Spring Boot | JavaScript | React | HTML | CSS | Tailwind CSS | SQL | NoSQL
 
 **Backend & Databases:**  
-REST APIs | API Integration | JWT | OAuth 2.0 | MySQL | SQLite | PostgreSQL | MongoDB | Django ORM | Query Optimization | Indexing
-
-**Developer Tools:**  
-Git | GitHub | Postman | VS Code | Docker
+REST APIs | API Integration | JWT | OAuth 2.0 | MySQL | SQLite | MongoDB | Query Optimization | Indexing
 
 **Core Concepts:**  
-OOP | Data Structures | CRUD | MVT | MVC | Authentication | Authorization | RBAC | Debugging | Testing | SDLC | Agile
+OOP | Data Structures | MVT | MVC | Authentication | Authorization | Debugging | Testing | SDLC | Agile
+
+**Developer Tools:**  
+Git | GitHub | Postman | VS Code | Docker | Selenium | Linux | Google Colab | Claude | ChatGPT | Copilot
 
 ---
 
@@ -89,13 +88,14 @@ A web application focused on promoting sustainable activities through user parti
 SAP | Adobe | PEC | Samsung
 
 **Technical Workshops & Events:**  
-Microsoft | GeeksforGeeks | Red Hat | Project EXPO
+Microsoft | GeeksforGeeks | Red Hat | Project EXPO | IISF
 
 ---
 
 ## 📜 Certifications
 
 - **Python Programming** | Infosys Springboard
+- **Java Programming**  | Infosys Springboard
 - **Problem Solving** | HackerRank
 - **Generative AI** | Microsoft
 
@@ -106,9 +106,6 @@ Microsoft | GeeksforGeeks | Red Hat | Project EXPO
 <p align="left">
   <a href="https://www.linkedin.com/in/gauravkumarsde/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
-  </a>
-  <a href="mailto:gauravprajapati8604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
   </a>
 </p>
 
